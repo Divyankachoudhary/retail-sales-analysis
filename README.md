@@ -1,4 +1,4 @@
-# portfolio
+# Retail store sales analysis
 my Data Analyst Portfolio- dashboards, case studies, and insights
 Retail Sales Analysis – SQL + Power BI
 
@@ -82,11 +82,6 @@ Beauty is the lowest-performing category
 
 Evening hours have peak sales
 
-📷 Dashboard Screenshot
-
-(Add your dashboard image here)
-
-![Dashboard](dashboard.png)
 
 ✔ Summary
 
